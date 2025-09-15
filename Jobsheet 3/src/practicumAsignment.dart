@@ -1,6 +1,6 @@
 void main() {
-  String name = "Ridho Anfaal";
-  String nim = "2341720222";
+  String name = "Yuma Akhunza K.P";
+  String nim = "2341720259";
 
   for (int num = 2; num <= 201; num++) {
     bool isPrime = true;

@@ -577,15 +577,15 @@ class _FuturePageState extends State<FuturePage> {
 # Practical 6: Using Future with StatefulWidget
 ## Step 1: install the geolocator plugin
 Add the geolocator plugin by typing the following command in the terminal.
-![alt text](images\prac6\1.png)
+![alt text](images/prac6/1.png)
 
 ## Step 2: Create a filegeolocation.dart
 Add this new file in your project lib folder.
-![alt text](images\prac6\2.png)
+![alt text](images/prac6/2.png)
 
 ## Step 3: Create a StatefulWidget
 Create class LocationScreenin filegeolocation.dart
-![alt text](images\prac6\3.png)
+![alt text](images/prac6/3.png)
 
 ## Step 4: Fill in the codegeolocation.dart
 ```dart:
@@ -812,7 +812,7 @@ This happens because FutureBuilder allows handling both success and error states
 
 ## Step 1: Create a new filenavigation_first.dart
 Create this new file in your lib project.
-![alt text](images\prac8\1.png)
+![alt text](images/prac8/1.png)
 
 ## Step 2: Fill in the codenavigation_first.dart
 ```dart:
@@ -882,7 +882,7 @@ Add this method.
 
 ## Step 4: Create a new filenavigation_second.dart
 Create this new file in your lib project. Feel free to group the views into one folder and adjust the imports as needed.
-![alt text](images\prac8\2.png)
+![alt text](images/prac8/2.png)
 
 
 ## Step 5: Create a NavigationSecond class with StatefulWidget
@@ -1180,7 +1180,7 @@ class MyApp extends StatelessWidget {
 
 ## Step 6: Run
 Try changing the background color with the dialog widget. If any errors occur, please fix them. If successful, it will appear as shown below.
-![alt text](images\prac9\2.png)
+![alt text](images/prac9/2.png)
 
 - Question 17
 Try clicking each button, what happens? Why is that?
@@ -1206,5 +1206,5 @@ Try clicking each button, what happens? Why is that?
   - This pattern makes the UI reactive and waits for user input before updating.
 
   Replace the 3 colors in step 3 with your favorite colors!
-![alt text](images\prac9\3.png)
-![alt text](images\prac9\4.png)
+![alt text](images/prac9/3.png)
+![alt text](images/prac9/4.png)

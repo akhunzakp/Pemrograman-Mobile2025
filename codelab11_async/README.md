@@ -1019,7 +1019,7 @@ ElevatedButton(
 
 ## Step 1: Create a new filenavigation_dialog.dart
 Create a new dart file in your project's lib folder.
-![alt text](books/images/prac9/1.png)
+![alt text](images/prac9/1.png)
 
 ## Step 2: Fill in the codenavigation_dialog.dart
 ```dart:

@@ -2,9 +2,9 @@
 
 # Praktikum 1-5 | stream_putra
 
+![alt text](stream_putra/images/3.png)
 ![alt text](stream_putra/images/1.png)
 ![alt text](stream_putra/images/2.png)
-![alt text](stream_putra/images/3.png)
 ![alt text](stream_putra/images/4.png)
 
 
@@ -55,9 +55,9 @@ Soal 11:
 
 # Praktikum 6 | streambuilder_putra
 
+![alt text](streambuilder_putra/images/3.png)
 ![alt text](streambuilder_putra/images/1.png)
 ![alt text](streambuilder_putra/images/2.png)
-![alt text](streambuilder_putra/images/3.png)
 ![alt text](streambuilder_putra/images/4.png)
 ![alt text](streambuilder_putra/images/5.png)
 
@@ -67,10 +67,10 @@ Soal 12:
 
 # Praktikum 7 | bloc_random_putra
 
+![alt text](bloc_random_putra/images/4.png)
 ![alt text](bloc_random_putra/images/1.png)
 ![alt text](bloc_random_putra/images/2.png)
 ![alt text](bloc_random_putra/images/3.png)
-![alt text](bloc_random_putra/images/4.png)
 ![alt text](bloc_random_putra/images/5.png)
 ![alt text](bloc_random_putra/images/6.png)
 

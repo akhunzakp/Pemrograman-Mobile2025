@@ -8,7 +8,7 @@
 Create a new flutter project named books in the src folder of your GitHub repository week-11 .
 
 Then Add dependencies httpby typing the following command in the terminal.
-![images](images\prac1\1.png)
+![alt text](images/prac1/1.png)
 
 ## Step 2: Check the filepubspec.yaml
 If the plugin is successfully installed, make sure the plugin httpis in pubspecthis file as follows.
